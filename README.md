@@ -79,7 +79,7 @@ To run the tests:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aqib0770/langchain-yt-dlp
+   git clone https://github.com/yourusername/langchain-yt-dlp
    cd langchain-yt-dlp
    ```
 
@@ -98,7 +98,7 @@ To run the tests:
 ## Contributing
 
 Contributions are welcome! If you have ideas for new features or spot a bug, feel free to:
-- Open an issue on [GitHub](https://github.com/aqib0770/langchain-yt-dlp/issues).
+- Open an issue on [GitHub](https://github.com/yourusername/langchain-yt-dlp/issues).
 - Submit a pull request.
 
 
