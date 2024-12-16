@@ -1,0 +1,4 @@
+langchain
+yt-dlp
+youtube-transcript-api
+pytest

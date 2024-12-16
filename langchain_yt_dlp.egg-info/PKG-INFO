@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: langchain-yt-dlp
+Version: 0.0.1
+Summary: YouTube loader for LangChain using yt-dlp
+Home-page: https://github.com/aqib0770/langchain-yt-dlp
+Author: Aqib Ansari
+Requires-Python: >=3.8
+Requires-Dist: yt-dlp
+Requires-Dist: langchain
