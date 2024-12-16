@@ -1,2 +1,0 @@
-langchain_yt_dlp
-tests
