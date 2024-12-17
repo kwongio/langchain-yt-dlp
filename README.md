@@ -58,7 +58,7 @@ print(documents)
 
 ## Parameters
 
-### `YoutubeLoader` Constructor
+### `YoutubeLoaderDL` Constructor
 
 | Parameter      | Type | Default | Description                             |
 |----------------|------|---------|-----------------------------------------|
