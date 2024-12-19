@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='langchain-yt-dlp',
-    version='0.0.6',
+    version='0.0.8',
     description='YouTube loader for LangChain using yt-dlp',
     long_description=open('README.md').read(),
     url="https://github.com/aqib0770/langchain-yt-dlp",
