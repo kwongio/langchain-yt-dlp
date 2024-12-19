@@ -1,4 +1,3 @@
 langchain
 yt-dlp
-youtube-transcript-api
-pytest
+langchain_community

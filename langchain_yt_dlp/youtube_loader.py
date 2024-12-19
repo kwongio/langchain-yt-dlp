@@ -74,6 +74,7 @@ class YoutubeLoaderDL(BaseLoader):
                     from datetime import datetime
 
                     publish_date = datetime.strptime(publish_date, "%Y%m%d")
+                    publish_date = publish_date.strftime("%Y-%m-%d")
                 except (ValueError, TypeError):
                     publish_date = "Unknown"
         video_info = {
