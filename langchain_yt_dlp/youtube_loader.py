@@ -78,6 +78,7 @@ class YoutubeLoaderDL(BaseLoader):
                 except (ValueError, TypeError):
                     publish_date = "Unknown"
         video_info = {
+            "thumbnail": yt.get("thumbnail", "Unknown"),
             "title": yt.get("title", "Unknown"),
             "description": yt.get("description", "Unknown"),
             "view_count": yt.get("view_count", 0),
